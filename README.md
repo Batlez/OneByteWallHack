@@ -1,3 +1,4 @@
+## *THIS DOES NOT WORK IN COUNTER-STRIKE ANYMORE BECAUSE THE GAME REMOVED r_drawothermodels 2 AS A CONSOLE COMMAND!!*
 # OneByteWallHack
 OneByteWallhack is a Python 3 script that achieves a wallhack in CS:GO by modifying a single byte of game memory.
 
